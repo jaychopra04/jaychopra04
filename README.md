@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: poker player
 - Have strong knowledge on equities
-- 
+
