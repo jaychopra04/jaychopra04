@@ -5,4 +5,5 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: poker player
 - Check out this: https://jaychopra.ml
+- Also Check: https://jaychopra.me
 
