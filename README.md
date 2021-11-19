@@ -1,9 +1,9 @@
-### Hi Folks 👋
+## Hi Folks 👋
 
 - 🔭 I’m currently working on Academic
 - 🌱 I’m a web-developer
 - 💬 Ask me about anything
-- ⚡ Fun fact: poker player
+- ⚡ Fun fact: chess player
 
 ```shell
  https://jaychopra.ml
