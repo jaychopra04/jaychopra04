@@ -1,9 +1,9 @@
 ## Hi Folks 👋
 
 - 🔭 I’m currently working on Academic
-- 🌱 I’m a web-developer
+- 🌱 I’m a Developer
 - 💬 Ask me about anything
-- ⚡ Fun fact: chess player
+- ⚡ Fun fact: Chess player
 
 
 ```shell
