@@ -25,4 +25,4 @@ First wordpress site
 ```
 <img width="1265" alt="Screenshot 2021-11-19 at 7 12 26 PM" src="https://user-images.githubusercontent.com/81903319/142634379-2f3530d4-9a93-42da-95bf-072fa18e13f9.png">
 
-![gitreadme](https://user-images.githubusercontent.com/81903319/183250667-5b61bbad-3f32-4786-904d-54cf004aa1c2.gif)
+
