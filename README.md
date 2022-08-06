@@ -28,5 +28,3 @@ First wordpress site
 
 
 
-https://user-images.githubusercontent.com/81903319/183250761-5061aeb9-c8d7-48e7-976b-21927f881af5.mov
-
