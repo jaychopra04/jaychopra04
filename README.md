@@ -7,7 +7,7 @@
 
 
 ```shell
-https://jaychopra.me
+https://jaychopra.in
 ```
 
 
@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/81903319/183250825-79cb2762-034c-49b2-
 
 ---
 ```shell
-Also Check : https://jaychopra.me
+Also Check : https://jaychopra.in
 ```
 <img width="1280" alt="Screenshot 2022-02-04 at 11 48 35 PM" src="https://user-images.githubusercontent.com/81903319/152582156-a59214ab-25f5-44e7-8bba-54796d097a67.png">
 
