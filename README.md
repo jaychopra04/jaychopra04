@@ -1,10 +1,8 @@
 ## Hi Folks 👋
 
-- 🔭 I’m currently working on Academic
-- 🌱 I’m a Developer
-- 💬 Ask me about anything
-- ⚡ Fun fact: Chess player
-
+- 👨🏻‍💻 Developer
+- ⚡️  Emerging & Financial Markets 
+- 👉🏻 Chess & Poker player
 
 ```shell
 https://jaychopra.in
