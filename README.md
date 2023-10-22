@@ -1,6 +1,6 @@
 ## Hi Folks 👋
 
-- 👨🏻‍💻 Developer
+- 👨🏻‍💻 C# .NET Developer
 - ⚡️  Emerging & Financial Markets 
 - 👉🏻 Chess & Poker player
 
