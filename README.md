@@ -1,8 +1,8 @@
 ## Hi Folks 👋
 
 - 👨🏻‍💻 C# .NET Developer
-- ⚡️  Emerging & Financial Markets 
-- 👉🏻 Chess & Poker player
+- ⚡️  Financial Markets 
+- 👉🏻 Chess
 
 ```shell
 https://jaychopra.in
